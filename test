@@ -1,2 +1,3 @@
 whoami /all
 net user
+net user /domain
